@@ -3,7 +3,7 @@
 clone project
 
 ```sh
-git clone
+git clone https://github.com/abrordc/ml-regresi-linear.git
 ```
 
 create virtual environment
