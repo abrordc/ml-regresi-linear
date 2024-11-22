@@ -1,5 +1,9 @@
 # Instalation
 
+repo ini sih regresi linear tapi saya gass jadikan repo experiment python aja
+
+repo yang saya buat karena penasaran dengan semua package yang saya ketahui di python
+
 clone project
 
 ```sh
