@@ -149,7 +149,8 @@ class TikTokScraper:
             self.cleanup()
 
 def main():
-    video_url = "https://www.tiktok.com/@politik.pamekasan/video/7430442112254070021"
+    # video_url = "https://www.tiktok.com/@politik.pamekasan/video/7430442112254070021"
+    video_url = "https://www.tiktok.com/@abuyaofficial/video/7425801669599825170"
     scraper = TikTokScraper()
     
     try:

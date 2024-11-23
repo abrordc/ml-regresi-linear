@@ -10,7 +10,7 @@ def read_text_from_file(file_path):
         
         # Konversi teks menjadi suara
         tts = gTTS(text, lang='id')  # Bahasa Indonesia, ubah 'id' ke 'en' jika perlu
-        audio_file = "output_audio.mp3"
+        audio_file = "output_audio1.mp3"
         tts.save(audio_file)
         
         # Memulai pygame untuk memutar audio

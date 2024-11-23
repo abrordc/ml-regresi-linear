@@ -47,11 +47,11 @@ def save_to_excel(parsed_data, output_file):
     print(f"Comments saved to {output_file}")
 
 # Lokasi file teks
-file_path = "comments.txt"
+file_path = "tiktok_comments.txt"
 output_file = "comments.xlsx"
 
 # Parsing data
-parsed_comments = parse_comments("tiktok_comments.txt")
+parsed_comments = parse_comments(file_path)
 
 # Simpan hasil ke Excel
 save_to_excel(parsed_comments, output_file)
